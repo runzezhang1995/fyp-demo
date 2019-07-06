@@ -1,0 +1,5 @@
+/src/reid
+/src/reid/
+/src/model/
+*.weights
+
